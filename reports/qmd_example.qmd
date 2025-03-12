@@ -25,7 +25,7 @@ Data
 
 Horse population data were sourced from the 
 [Government of Canada's Open Data website](http://open.canada.ca/en/open-data) 
-(@govcan2017a; @govcan2017b).
+(@horses1; @horses2).
 
 Methods
 

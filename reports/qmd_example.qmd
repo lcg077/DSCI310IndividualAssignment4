@@ -9,8 +9,9 @@ format:
   pdf:
     toc: true
     number-sections: true
-    
+
 editor: source
+number-sections: true
 bibliography: references.bib
 ---
 
